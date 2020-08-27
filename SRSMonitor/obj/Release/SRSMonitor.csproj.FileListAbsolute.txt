@@ -1,0 +1,4 @@
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\SRSMonitor\bin\Release\SRSDeviceMonitor.exe
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\SRSMonitor\bin\Release\SRSDeviceMonitor.pdb
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\SRSMonitor\obj\Release\SRSDeviceMonitor.exe
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\SRSMonitor\obj\Release\SRSDeviceMonitor.pdb

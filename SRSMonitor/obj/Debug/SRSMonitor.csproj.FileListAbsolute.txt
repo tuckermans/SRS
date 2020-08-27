@@ -1,0 +1,11 @@
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\SRSMonitor\bin\Debug\SRSDeviceMonitor.exe
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\SRSMonitor\bin\Debug\SRSDeviceMonitor.pdb
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\SRSMonitor\obj\Debug\SRSDeviceMonitor.exe
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\SRSMonitor\obj\Debug\SRSDeviceMonitor.pdb
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\obj\Debug\SRSDeviceMonitor.pdb
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\bin\Debug\SRSDeviceMonitor.exe
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\bin\Debug\SRSDeviceMonitor.pdb
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\obj\Debug\SRSDeviceMonitor.exe
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\bin\Debug\FTD2XX_NET.dll
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\bin\Debug\FTD2XX_NET.xml
+C:\Users\Jack\Documents\BAT\SRS Medical\SRSMonitor\obj\Debug\SRSMonitor.csprojResolveAssemblyReference.cache
